@@ -1,0 +1,7 @@
+.idea/
+catboost_info/
+data/
+.venv/
+__pycache__/
+*.ipynb_checkpoints/
+*.DS_Store
