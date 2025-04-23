@@ -36,7 +36,7 @@ To ensure robust performance analysis, the following metrics were used:
 Accuracy, Precision, Recall, F1-Score, ROC-AUC Score, Confusion Matrix
 
 ## Best Model: XGBoost
-Accuracy: 89%, F1-Score: 87%, ROC-AUC: 0.91
+Accuracy: 83%, F1-Score: 64%, ROC-AUC: 0.94 (test)
 
 Outperformed CatBoost and LightGBM on both precision and recall, indicating better balance and generalization across classes.
 
